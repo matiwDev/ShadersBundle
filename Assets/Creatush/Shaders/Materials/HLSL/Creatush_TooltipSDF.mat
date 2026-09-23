@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Creatush_TooltipSDF
+  m_Shader: {fileID: 4800000, guid: 462b2e624d043466ba9a50f1cf28630f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _CanvasSize
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _FaceTransparent: 0
+    - _Height: 50
+    - _InnerShadowSize: 0.5
+    - _O1Delta: 0
+    - _O1OffX: 0
+    - _O1OffY: 0
+    - _O1Width: 0.5
+    - _O2Delta: 0
+    - _O2OffX: 0
+    - _O2OffY: 0
+    - _O2Width: 1
+    - _O3Delta: 0
+    - _O3OffX: 0
+    - _O3OffY: 0
+    - _O3Width: 1.5
+    - _O4Delta: 0
+    - _O4OffX: 0
+    - _O4OffY: 0
+    - _O4Width: 2
+    - _O5Delta: 0
+    - _O5OffX: 0
+    - _O5OffY: 0
+    - _O5Width: 0
+    - _OverallOpacity: 1
+    - _RadBL: 10
+    - _RadBR: 10
+    - _RadTL: 10
+    - _RadTR: 10
+    - _ShadDelta: 0
+    - _ShadOffX: 0.41
+    - _ShadOffY: -1.02
+    - _ShadOpacity: 1
+    - _ShadSmooth: 0.6
+    - _ShadWidth: 1.19
+    - _TipPosX: -6.33
+    - _TipPosY: 40.2
+    - _TipRot: 145
+    - _TipSize: 15
+    - _TipWidth: 12
+    - _UseGradient: 0
+    - _Width: 90
+    m_Colors:
+    - _CanvasSize: {r: 100, g: 100, b: 0, a: 0}
+    - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FaceColor2: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _InnerShadowColor: {r: 0.47843137, g: 0.3647059, b: 0.24313726, a: 0.5}
+    - _O1Color: {r: 0.8156863, g: 0.74509805, b: 0.6431373, a: 1}
+    - _O2Color: {r: 0.69803923, g: 0.61960787, b: 0.52156866, a: 1}
+    - _O3Color: {r: 0.49411765, g: 0.3647059, b: 0.24705882, a: 1}
+    - _O4Color: {r: 0.54901963, g: 0.47843137, b: 0.44705883, a: 1}
+    - _O5Color: {r: 0, g: 0, b: 0, a: 1}
+    - _ShadColor: {r: 0, g: 0, b: 0, a: 0.627451}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Creatush_UberSprite_2
+  m_Shader: {fileID: 4800000, guid: 6a0245b560e4a471d976de19b3c64658, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _USEHSV_ON
+  - _USEOUTLINE_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Brightness: 0.482
+    - _ColorLevels: 0
+    - _ColorMask: 15
+    - _DissolveAmount: 0
+    - _EdgeIntensity: 3
+    - _EdgeWidth: 0.08
+    - _FlashAmount: 0
+    - _Grayscale: 0
+    - _HueShift: 0.631
+    - _MirrorX: 0
+    - _MirrorY: 0
+    - _OutlineOnly: 0
+    - _OutlineWidth: 3
+    - _PixelCountX: 32
+    - _PixelCountY: 32
+    - _ReverseX: 0
+    - _ReverseY: 0
+    - _Saturation: 0.9
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _SweepAngle: 20
+    - _SweepInterval: 3
+    - _SweepSpeed: 1
+    - _SweepWidth: 0.2
+    - _UseDissolve: 0
+    - _UseHSV: 1
+    - _UseHitFlash: 0
+    - _UseMirror: 0
+    - _UseOutline: 1
+    - _UsePixelate: 0
+    - _UseShineSweep: 0
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EdgeColor: {r: 1, g: 0.6, b: 0.09999997, a: 1}
+    - _FlashColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SweepColor: {r: 1, g: 1, b: 1, a: 0.8}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

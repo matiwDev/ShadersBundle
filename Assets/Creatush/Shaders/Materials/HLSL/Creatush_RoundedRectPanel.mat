@@ -48,7 +48,7 @@ Material:
     - _Outline1Thickness: 0.04
     - _Outline2Offset: 0
     - _Outline2Thickness: 0.015
-    - _ShadowOpacity: 0.07
+    - _ShadowOpacity: 0.062
     - _ShadowRadiusBL: 0.1
     - _ShadowRadiusBR: 0.1
     - _ShadowRadiusTL: 0.1

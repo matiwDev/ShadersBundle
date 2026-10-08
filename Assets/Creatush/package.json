@@ -1,6 +1,6 @@
 {
   "name": "com.creatush.shaders",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Creatush Shaders",
   "description": "A collection of hand-written HLSL/CGPROGRAM and Shader Graph shaders for UI and 2D work in URP, plus a shared custom-Inspector system (GroupedShaderGUI) that gives every shader collapsible, organized property groups instead of one long flat list.",
   "unity": "6000.0",
@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "com.unity.render-pipelines.universal": "17.0.0",
-    "com.unity.shadergraph": "17.0.0"
+    "com.unity.shadergraph": "17.0.0",
+    "com.unity.render-pipelines.core": "17.0.0"
   }
 }
